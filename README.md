@@ -16,9 +16,6 @@
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=idoshakartsi&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=idoshakartsi&theme=dark&hide_border=true" alt="GitHub Streak" width="48%"/>
-
 </div>
 
 ---
