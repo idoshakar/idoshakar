@@ -2,8 +2,8 @@
 
 <div align="center">
   <h1>Ido Shakartsi</h1>
-  <p><strong>Software Engineer | AI & Automation | CS & Neuroscience</strong></p>
-
+<p><strong>Software Engineer | AI & Automation | CS & Computational Neuroscience</strong></p>
+  
   <a href="mailto:idoshakar@gmail.com">
     <img src="https://img.shields.io/badge/Email-idoshakar@gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -22,7 +22,7 @@
 
 ## About Me
 
-I am a Software Engineer with a dual B.S. in Computer Science and Neuroscience from the Hebrew University of Jerusalem. I specialize in bridging the gap between deterministic code and non-deterministic AI to solve complex engineering and data problems.
+I am a Software Engineer with a B.S. in Computer Science and a minor in Computational Neuroscience from the Hebrew University of Jerusalem. I specialize in bridging the gap between deterministic code and non-deterministic AI to solve complex engineering and data problems.
 
 Currently, I work at **CEVA**, building production-grade Python pipelines that integrate LLMs to autonomously generate low-level hardware validation tests. By optimizing context windows and implementing hybrid script-agent workflows, my work has reduced test generation overhead from multiple engineer-days to under 3 hours.
 
