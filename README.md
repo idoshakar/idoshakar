@@ -35,7 +35,6 @@ My background in neuroscience deeply informs my approach to software and artific
 *   **Cognitive NLP Modeling (The Surprisal Gap):** Engineered a computational data pipeline to analyze human reading times and surprisal metrics. Implemented baseline n-gram algorithms from scratch alongside LSTM and GPT architectures to evaluate cognitive processing similarities between humans and AI.
 *   **Production AI Automation:** Developed token-optimized, human-in-the-loop CLI wrappers around Anthropic models to accurately parse hardware specifications and automate C/C++ validation test suites.
 *   **High-Dimensional Data Pipelines:** Built end-to-end digital signal processing models (NumPy/Pandas) to filter noise and extract spatial features from continuous spatial-temporal fMRI datasets.
-*   **Cuisine ML Classifier:** Developed an automated web-scraping pipeline and trained unsupervised clustering/linear regression models using gradient descent to identify cuisines based on ingredient profiles.
 
 ---
 
